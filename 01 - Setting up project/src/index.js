@@ -24,4 +24,4 @@ client.on('messageCreate', (message) => {
   }
 });
 
-client.login(MTA4MjM0OTA2NDUwNDQ4Mzg1MA.Gga2lN.qQ1O6k86t9KADJ8Yd5jfLCcBvOc2PVHAOcqwlo);
+client.login();
