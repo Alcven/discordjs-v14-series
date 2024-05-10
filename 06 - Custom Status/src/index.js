@@ -13,11 +13,11 @@ const client = new Client({
 let status = [
   {
     name: 'Under Ctrl',
-    type: ActivityType.Streaming,
+    type: ActivityType.Watching,
     url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
   },
   {
-    name: 'Custom Status 1',
+    name: 'on your mam',
   },
   {
     name: 'Custom Status 2',
